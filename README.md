@@ -1,0 +1,1 @@
+A productivity app made for students in Egypt to stay focused, beat phone distractions, and manage study time smarter. It blocks apps, tracks focus streaks, and rewards progress with meaningful insights. With local payment options and Arabic-friendly design, it makes productivity simple, affordable, and relatable. 
