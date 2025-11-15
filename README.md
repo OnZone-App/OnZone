@@ -92,7 +92,6 @@ Designed the entire onboarding flow including the welcome screen, personal infor
 Mohamed Al Basyoune:
 Main contributor to the user flow. Designed personas alongside Ziad Ibrahim. Contributed to the SWOT analysis. Designed a Facebook social media poster. Conducted competitive analysis. Wrote stakeholder and user interview questions. Contributed to earlier versions of the design system.
 
-Figma link: https://www.figma.com/design/SnaGd2Z1DY7IYSwtNwCWMp/OnZone?node-id=3360-3640&t=UsWTi4gQXCbHh3g5-1
-
 Fonts Used: Roboto and Poppins
+
 Colors Used: The OnZone design system colors as defined in the Figma file.
