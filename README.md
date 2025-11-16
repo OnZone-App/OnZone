@@ -12,6 +12,7 @@ Figma Link: https://www.figma.com/design/SnaGd2Z1DY7IYSwtNwCWMp/OnZone?node-id=3
 
 Maze usability test link: 
 https://t.maze.co/468790069
+(Further details are included in the figma file in the UX page)
 
 Team Members: Ziad Ibrahim (Team Leader), Ahmed Emad, Mohamed Al Basyoune, Peter Girgis, Mina Saed, Marslino Medhat
 
