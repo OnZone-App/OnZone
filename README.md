@@ -10,6 +10,9 @@ GitHub Link: https://github.com/OnZone-App/OnZone
 
 Figma Link: https://www.figma.com/design/SnaGd2Z1DY7IYSwtNwCWMp/OnZone?node-id=3116-3162&t=T1qEYE23KZ3ZHvZC-1
 
+Maze usability test link: 
+https://t.maze.co/468790069
+
 Team Members: Ziad Ibrahim (Team Leader), Ahmed Emad, Mohamed Al Basyoune, Peter Girgis, Mina Saed, Marslino Medhat
 
 Expected Timeline (Design Thinking Framework):
