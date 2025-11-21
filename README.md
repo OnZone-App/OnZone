@@ -99,3 +99,7 @@ Main contributor to the user flow. Designed personas alongside Ziad Ibrahim. Con
 Fonts Used: Roboto and Poppins
 
 Colors Used: The OnZone design system colors as defined in the Figma file.
+
+
+License: This project (OnZone) is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) license.
+You are free to use, modify, and distribute this work for any purpose, as long as proper attribution is given to the original owner.
