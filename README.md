@@ -8,7 +8,8 @@ OnZone focuses on improving focus and productivity for Egyptian students. Key re
 - Google Form: [Research Survey](https://forms.gle/zgUVhPTkDcFEe1pg9)
 - Google Sheets: [Research Survey Results](https://docs.google.com/spreadsheets/d/16x9VqvL47AWTvFTDvumZawMudzJ6wcOxjnwRse2rMes/edit?usp=sharing)
 - Figma: [OnZone Design File](https://www.figma.com/design/SnaGd2Z1DY7IYSwtNwCWMp/OnZone?node-id=3116-3162&t=T1qEYE23KZ3ZHvZC-1)
-- Maze Usability Test: [Maze Link](https://t.maze.co/468790069) (details in the UX section of Figma)
+- Maze Usability Test: [Maze Link](https://t.maze.co/468790069)
+- Maze Usability Test Results: [Report Link](https://app.maze.co/report/OnZone-Maze/5i7lv7mhxymjvp/intro) 
 
 **Team Members**:
 - Ziad Ibrahim (Leader)
