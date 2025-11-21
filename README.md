@@ -69,7 +69,7 @@ OnZone is designed for Egyptian student realities like noisy homes, tight schedu
 
 - **Ziad Ibrahim**:
   - Primary documentation writer
-  - Focus Zone prototype design
+  - Focus Zone Design and prototype 
   - Personas
   - Value Proposition Canvas and Business Model
 - **Mina Saed**:
