@@ -5,6 +5,8 @@ OnZone is a productivity app designed to help Egyptian students focus, manage di
 ## Project Planning
 OnZone focuses on improving focus and productivity for Egyptian students. Key resources:
 - GitHub: [OnZone Repository](https://github.com/OnZone-App/OnZone)
+- Google Form: [Research Survey](https://forms.gle/zgUVhPTkDcFEe1pg9)
+- Google Sheets: [Research Survey Results](https://docs.google.com/spreadsheets/d/16x9VqvL47AWTvFTDvumZawMudzJ6wcOxjnwRse2rMes/edit?usp=sharing)
 - Figma: [OnZone Design File](https://www.figma.com/design/SnaGd2Z1DY7IYSwtNwCWMp/OnZone?node-id=3116-3162&t=T1qEYE23KZ3ZHvZC-1)
 - Maze Usability Test: [Maze Link](https://t.maze.co/468790069) (details in the UX section of Figma)
 
